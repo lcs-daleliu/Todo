@@ -5,6 +5,7 @@
 //  Created by Yiren LIU on 2024-04-09.
 //
 
+import SwiftData
 import SwiftUI
 
 struct LandingView: View {
@@ -85,8 +86,8 @@ struct LandingView: View {
    }
 }
 
-#Preview {
-    LandingView()
-}
+//#Preview {
+//    LandingView()
+//}
 
 
